@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yogi Ramsuratkumar Satsangs"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+  search:
+    location: navbar
+    type: overlay
+    copy-button: true
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

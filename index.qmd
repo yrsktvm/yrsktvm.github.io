@@ -1,5 +1,5 @@
 ---
-title: "Yogiramsuratkumar satsangs"
+title: ""
 listing:
   contents: posts
   sort: "date desc"

@@ -9,8 +9,7 @@ website:
     logo: "/ysk.png"
     right:
       - about.qmd
-      - icon: twitter
-        href: https://twitter.com
+     
       - icon: youtube
         href: https://www.youtube.com/@yogiramsuratkumarashram1918
 

@@ -6,7 +6,7 @@ project:
 website:
   title: "Yogi Ramsuratkumar Satsangs"
   navbar:
-    logo: "/ysk.png"
+    logo: "/yrsk.png"
     right:
       - about.qmd
      

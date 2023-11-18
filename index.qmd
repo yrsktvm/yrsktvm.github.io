@@ -7,7 +7,7 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: false
-page-layout: full
+page-layout: article
 title-block-banner: true
 ---
 

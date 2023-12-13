@@ -1,6 +1,6 @@
 ---
 title: 110 - Bhagwan tells the story of 2 brothers who lent money from the other and the fights between them
-author: Story of Two brothers 
+author: Two brothers
 date: "07/01/2020"
 categories: [Conversation, sannidhi street]
 ---

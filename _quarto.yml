@@ -27,4 +27,6 @@ format:
     css: styles.css
 
 
-
+execute:
+  freeze: auto
+  echo: true
